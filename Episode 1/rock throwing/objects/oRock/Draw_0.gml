@@ -1,0 +1,1 @@
+draw_sprite_ext(sRock, 0, x, y, image_xscale, image_yscale, image_angle, oInfo.rock_colour, image_alpha);
