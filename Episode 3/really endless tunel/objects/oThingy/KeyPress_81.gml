@@ -1,0 +1,1 @@
+crazy_mode = 120;
