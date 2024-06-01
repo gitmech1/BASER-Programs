@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"convert_to_2d",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"convert_to_2d",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

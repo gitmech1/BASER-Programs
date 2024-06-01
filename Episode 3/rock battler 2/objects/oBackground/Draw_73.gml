@@ -1,0 +1,1 @@
+draw_sprite(sDarkness, 0, 0, 0);
