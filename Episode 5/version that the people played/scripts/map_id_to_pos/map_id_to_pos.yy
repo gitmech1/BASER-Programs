@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"map_id_to_pos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"map_id_to_pos",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

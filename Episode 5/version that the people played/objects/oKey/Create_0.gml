@@ -1,0 +1,9 @@
+lockedto = noone;
+animation = 0;
+door = noone;
+goalx = xstart;
+goaly = ystart;
+rotation = 0;
+sinscale = 1;
+shake = 0;
+lifespan = irandom_range(0, 9999);
