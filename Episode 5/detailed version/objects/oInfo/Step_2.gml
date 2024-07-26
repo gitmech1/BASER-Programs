@@ -1,0 +1,2 @@
+//screen_save(working_directory + "screenshots\\shot_" + string(total_lifespan) + ".png");
+//screen_save(working_directory + "screenshots\\shot_" + string_repeat("0", 4-len(string(total_lifespan))) + string(total_lifespan) + ".png");

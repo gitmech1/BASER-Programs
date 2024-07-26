@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite_index, image_index, x+oInfo.shakex, y+oInfo.shakey, image_xscale, image_yscale, image_angle, #AAAAAA, 1);

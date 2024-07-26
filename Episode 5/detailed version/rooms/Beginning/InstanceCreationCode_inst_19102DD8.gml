@@ -1,0 +1,1 @@
+array_push(oInfo.rocks, id);

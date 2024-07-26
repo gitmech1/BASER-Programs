@@ -1,0 +1,1 @@
+screen_save(working_directory + "screenshots\\shot_" + string_repeat("0", 4-len(string(time_elapsed))) + string(time_elapsed) + ".png");
