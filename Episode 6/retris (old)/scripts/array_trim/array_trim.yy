@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"array_trim",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_trim",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

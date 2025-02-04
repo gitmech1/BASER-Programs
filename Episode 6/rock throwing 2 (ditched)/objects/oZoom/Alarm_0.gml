@@ -1,0 +1,1 @@
+power_amount = power1;

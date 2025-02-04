@@ -1,0 +1,1 @@
+//screenshot_mode = !screenshot_mode;

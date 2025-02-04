@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"archetype",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":262.89633,
+  "name":"archetype",
+  "parent":{
+    "name":"songs",
+    "path":"folders/Sounds/songs.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"archetype.mp3",
+  "type":0,
+  "volume":0.4,
+}

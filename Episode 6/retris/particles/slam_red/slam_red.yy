@@ -1,0 +1,25 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"slam_red",
+  "backdropHeight":768,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":1366,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"Emitter","additiveBlend":false,"directionIncrease":0.0,"directionMax":130.0,"directionMin":50.0,"directionWiggle":0.0,"distribution":1,"editorColour":1090519039,"editorDrawShape":true,"emitCount":5,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":4294967295,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.2,"headPosition":0.0,"lifetimeMax":200.0,"lifetimeMin":200.0,"linkedEmitter":null,"locked":false,"midColour":4294967295,"mode":1,"name":"Emitter","orientationIncrease":0.0,"orientationMax":350.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":64.0,"regionW":64.0,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":2,"sizeIncrease":0.0,"sizeMax":1.1,"sizeMin":1.0,"sizeWiggle":0.0,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":11.0,"speedMin":7.0,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":{"name":"sShardRed","path":"sprites/sShardRed/sShardRed.yy",},"spriteRandom":true,"spriteStretch":false,"startColour":4294967295,"texture":-1,},
+  ],
+  "name":"slam_red",
+  "parent":{
+    "name":"Particle Systems",
+    "path":"folders/Particle Systems.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}
